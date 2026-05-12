@@ -1,6 +1,6 @@
 ---
 title: Website Title
-subtitle: Subtitle of the book 
+subtitle: Subtitle of the book
 ---
 
 ## Introduction
