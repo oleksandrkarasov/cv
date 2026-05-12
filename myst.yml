@@ -3,6 +3,8 @@ project:
   title: Website Title
   # authors:
   #   - name: Author Name
+site:
+  base_url: /
   copyright: '2026'
   exclude:
     - _build
